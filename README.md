@@ -1,1 +1,2 @@
-# cv
+# curriculo basico
+falta atualizar
